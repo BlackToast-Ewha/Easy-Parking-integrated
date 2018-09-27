@@ -19,3 +19,6 @@ def softmax(a):
 
 def sigmoid(a):
   return 1. / (1. + numpy.exp(-a))
+
+
+print(len(CHARS))
