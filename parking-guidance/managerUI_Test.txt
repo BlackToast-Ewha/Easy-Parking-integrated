@@ -1,0 +1,3 @@
+C,B,H,E,A,D,L,F,G
+L,B,H,A,F,G,E,D,C
+I,K,J,B,A,F,G,H,D,E,C,L
